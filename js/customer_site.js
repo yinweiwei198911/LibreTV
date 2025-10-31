@@ -6,6 +6,10 @@ const CUSTOMER_SITES = {
     ff:{
         api:'http://ffzy5.tv/api.php/provide/vod',
         name:'非凡资源',
+    },
+    lz:{
+        api:'https://cj.lziapi.com/api.php/provide/vod',
+        name:'量子资源',
     }
 };
 
