@@ -10,6 +10,10 @@ const CUSTOMER_SITES = {
     lz:{
         api:'https://cj.lziapi.com/api.php/provide/vod',
         name:'量子资源',
+    },
+    yzh:{
+        api:'https://api.yzzy-api.com/inc/api_mac10.php',
+        name:'优质资源'
     }
 };
 
