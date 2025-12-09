@@ -13,11 +13,11 @@ const CUSTOMER_SITES = {
     },
     189o: {
       api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源采集网采集接口',
+      name: '虎牙资源采集网采集接口',
     },
     oytb: {
-      name: '幸资源站采集接口',
       api: 'https://xzybb1.com/api.php/provide/vod',
+      name: '幸资源站采集接口',
       adult:true
     },
     v0k3:{
