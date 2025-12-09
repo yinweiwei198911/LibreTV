@@ -11,6 +11,19 @@ const CUSTOMER_SITES = {
         api:'https://cj.lziapi.com/api.php/provide/vod',
         name:'量子资源',
     },
+    zd:{
+        api:'https://api.zuidapi.com/api.php/provide/vod',
+        name:'最大资源',
+    },
+    ok:{
+        api:'http://api.okzyw.net/api.php/provide/vod',
+        name:'OK影视'
+    },
+    dnz:{
+        api:'https://apidanaizi.com/api.php/provide/vod',
+        name:'大奶子资源',
+        adult:true
+    },
     v0k3:{
         api:'https://www.xiangjiaozyw.com/api.php/provide/vod',
         name:'香蕉资源采集接口',
