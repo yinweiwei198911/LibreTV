@@ -12,8 +12,8 @@ const CUSTOMER_SITES = {
         name:'量子资源',
     },
     189o: {
-      name: '虎牙资源采集网采集接口',
-      api: 'https://www.huyaapi.com/api.php/provide/vod'
+      api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源采集网采集接口',
     },
     oytb: {
       name: '幸资源站采集接口',
