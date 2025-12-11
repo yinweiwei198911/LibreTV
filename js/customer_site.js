@@ -15,9 +15,9 @@ const CUSTOMER_SITES = {
         api:'https://api.zuidapi.com/api.php/provide/vod',
         name:'最大资源',
     },
-    ok:{
-        api:'http://api.okzyw.net/api.php/provide/vod',
-        name:'OK影视'
+    dy:{
+        api:'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name:'电影天堂'
     },
     dnz:{
         api:'https://apidanaizi.com/api.php/provide/vod',
